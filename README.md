@@ -39,6 +39,8 @@
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
+## GitHub Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 - [LinkedIN](http://linkedin.com/in/robert-fydrych)
