@@ -40,6 +40,13 @@
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+
+![Lang-box](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda#file-lang-box)
+ 
+
+![Lang-box](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda)
+
+
 ## 📫 How to reach me:
 - [LinkedIN](http://linkedin.com/in/robert-fydrych)
 - [Personal Homepage](https://robfyd.github.io/Personal-Homepage/)
