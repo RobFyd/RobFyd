@@ -43,10 +43,9 @@
 
 ![Lang-box](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda#file-lang-box)
  
+![Lang-box](https://gist.githubusercontent.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda/raw/9ca8601fc0a300a2b8b43c67595d3a8766ba3bd1/%25F0%259F%2592%25BB%2520Recent%2520coding%2520in%2520languages)
 
 <!--
-![Lang-box](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda)
-
 <script src="https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda.js"></script>
 
 [lang](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda)
