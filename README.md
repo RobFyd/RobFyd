@@ -49,9 +49,8 @@
 [lang](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda)
 -->
 
-
 ## 📫 How to reach me:
-- [LinkedIN](http://linkedin.com/in/robert-fydrych)
+- [![linkedin](https://github.com/user-attachments/assets/21b270a5-e9f7-4ec6-a069-d01d3ce38cf7)](http://linkedin.com/in/robert-fydrych)
 - [Personal Homepage](https://robfyd.github.io/Personal-Homepage/)
 - [PeoplePerHour](http://pph.me/RobertFydrych)
 
