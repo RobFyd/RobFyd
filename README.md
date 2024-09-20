@@ -41,14 +41,6 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) <!--blog-->
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) <!--office-->
 
-<!--
-## 📈 Recent coding in languages
-![Lang-box](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda#file-lang-box)
- ![Lang-box](https://gist.githubusercontent.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda/raw/9ca8601fc0a300a2b8b43c67595d3a8766ba3bd1/%25F0%259F%2592%25BB%2520Recent%2520coding%2520in%2520languages)
-<script src="https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda.js"></script>
-[lang](https://gist.github.com/RobFyd/29e3cfebfe34aad87724fb16775cbcda)
--->
-
 ## 📫 How to reach me:
 
 [![linkedin](https://github.com/user-attachments/assets/21b270a5-e9f7-4ec6-a069-d01d3ce38cf7)](http://linkedin.com/in/robert-fydrych) &nbsp;&nbsp; Linkedin
@@ -57,8 +49,23 @@
 
 [![home-button](https://github.com/user-attachments/assets/d33fd147-3801-4285-9e06-d2e03cd616c0)](https://robfyd.github.io/Personal-Homepage/) &nbsp;&nbsp; Personal Homepage
 
-[![icons8-gmail-64](https://github.com/user-attachments/assets/9ce1619e-ecc7-49cb-8b1a-6a6fe92eca30)](https://fydrych.robert.w@gmail.com) &nbsp;&nbsp; Gmail
+## 📈 Stats
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true" />
+</picture>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&layout=compact)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
