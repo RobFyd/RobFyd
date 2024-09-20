@@ -53,21 +53,19 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&hide=issues&show=prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&layout=compact)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **RobFyd/RobFyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
