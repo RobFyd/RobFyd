@@ -48,17 +48,10 @@
 
 ## 📫 How to reach me:
 
-[![linkedin](https://github.com/user-attachments/assets/21b270a5-e9f7-4ec6-a069-d01d3ce38cf7)](http://linkedin.com/in/robert-fydrych) &nbsp;&nbsp; Linkedin
-
-[![pphIm-removebg-preview](https://github.com/user-attachments/assets/4038f674-af54-409e-9ce8-81c99658c1af)](http://pph.me/RobertFydrych) &nbsp;&nbsp;  PeoplePerHour
-
-[![home-button](https://github.com/user-attachments/assets/d33fd147-3801-4285-9e06-d2e03cd616c0)](https://robfyd.github.io/Personal-Homepage/) &nbsp;&nbsp; Personal Homepage
-
+[![linkedin](https://github.com/user-attachments/assets/21b270a5-e9f7-4ec6-a069-d01d3ce38cf7)](http://linkedin.com/in/robert-fydrych) &nbsp;&nbsp; Linkedin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![pphIm-removebg-preview](https://github.com/user-attachments/assets/4038f674-af54-409e-9ce8-81c99658c1af)](http://pph.me/RobertFydrych) &nbsp;&nbsp;  PeoplePerHour &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![home-button](https://github.com/user-attachments/assets/d33fd147-3801-4285-9e06-d2e03cd616c0)](https://robfyd.github.io/Personal-Homepage/) &nbsp;&nbsp; Personal Homepage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![gmail](https://github.com/user-attachments/assets/d8c36467-0e60-42f6-9e5f-98fff9c2080e)](mailto:fydrych.robert.w@gmail.com) &nbsp;&nbsp; Gmail
-
-<a href="mailto:fydrych.robert.w@gmail.com">
-    <img src="https://github.com/user-attachments/assets/d8c36467-0e60-42f6-9e5f-98fff9c2080e" />
-  </a>
 
 ## 📈 Stats
 
