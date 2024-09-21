@@ -51,7 +51,14 @@
 
 ## 📈 Stats
 
-<picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
+</a>
+
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: dark)"
@@ -64,6 +71,7 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&layout=compact)-->
 
