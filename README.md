@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RobFyd.RobFyd" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&pause=1000&color=f0f6fc&size=45&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Robert+:);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&pause=1000&color=f0f6fc&background=0d1117&size=45&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Robert+:);" />
 </h1>
 
 ## <div align="justify">My name is Robert and I'm a passionate Frontend Developer with a deep fascination for coding and crafting engaging user experiences. Currently on a journey towards becoming a Full Stack Developer, I'm eager to explore and integrate both the front and back ends of web development. Let's connect and create something amazing together!</div>
