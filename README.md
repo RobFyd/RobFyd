@@ -54,6 +54,12 @@
 
 [![home-button](https://github.com/user-attachments/assets/d33fd147-3801-4285-9e06-d2e03cd616c0)](https://robfyd.github.io/Personal-Homepage/) &nbsp;&nbsp; Personal Homepage
 
+[![gmail](https://github.com/user-attachments/assets/d8c36467-0e60-42f6-9e5f-98fff9c2080e)](mailto:fydrych.robert.w@gmail.com) &nbsp;&nbsp; Gmail
+
+<a href="mailto:fydrych.robert.w@gmail.com">
+    <img src="https://github.com/user-attachments/assets/d8c36467-0e60-42f6-9e5f-98fff9c2080e" />
+  </a>
+
 ## 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
