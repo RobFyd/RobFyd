@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RobFyd.RobFyd" />
+
+
 # <div align="center">Hi there 👋</div>
 ## <div align="justify">My name is Robert and I'm a passionate Frontend Developer with a deep fascination for coding and crafting engaging user experiences. Currently on a journey towards becoming a Full Stack Developer, I'm eager to explore and integrate both the front and back ends of web development. Let's connect and create something amazing together!</div>
 ## So let's check 🖱️ what we have here 🙂
