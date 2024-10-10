@@ -46,7 +46,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) <!--blog-->
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) <!--office-->
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <!--Frameworks & Library-->
-<!--  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) <!--orm-->  -->
+<!--  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ( orm )  -->
 
 ## 📫 How to reach me:
 
@@ -64,7 +64,8 @@
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
 </a>
 
-<!-- <picture>
+<!-- 
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: dark)"
@@ -77,11 +78,9 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&layout=compact)-->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&layout=compact)
 
-<!--
 **RobFyd/RobFyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
