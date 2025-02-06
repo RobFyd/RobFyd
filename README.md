@@ -7,7 +7,7 @@
 ## <div align="justify">My name is Robert and I'm a passionate Frontend Developer with a deep fascination for coding and crafting engaging user experiences. Currently on a journey towards becoming a Full Stack Developer, I'm eager to explore and integrate both the front and back ends of web development. Let's connect and create something amazing together!</div>
 ## So let's check 🖱️ what we have here 🙂
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <!--Language-->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <!--Language-->
@@ -39,7 +39,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) <!--office-->
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) <!--AI-->
 
-## 📖 Basic Knowledge:
+# 📖 Basic Knowledge:
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <!--Frameworks & Library-->
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) <!--Frameworks & Library-->
@@ -54,14 +54,14 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <!--Language-->
 <!--  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ( database )  -->
 
-## 📫 How to reach me:
+# 📫 How to reach me:
 
 [![linkedin](https://github.com/user-attachments/assets/21b270a5-e9f7-4ec6-a069-d01d3ce38cf7)](http://linkedin.com/in/robert-fydrych) &nbsp;&nbsp; Linkedin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pphIm-removebg-preview](https://github.com/user-attachments/assets/4038f674-af54-409e-9ce8-81c99658c1af)](http://pph.me/RobertFydrych) &nbsp;&nbsp;  PeoplePerHour &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![home-button](https://github.com/user-attachments/assets/d33fd147-3801-4285-9e06-d2e03cd616c0)](https://robfyd.github.io/Personal-Homepage/) &nbsp;&nbsp; Personal Homepage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![gmail](https://github.com/user-attachments/assets/d8c36467-0e60-42f6-9e5f-98fff9c2080e)](mailto:fydrych.robert.w@gmail.com) &nbsp;&nbsp; Gmail
 
-## 📈 Stats
+# 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github" />
