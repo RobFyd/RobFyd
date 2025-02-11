@@ -64,10 +64,10 @@
 # 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
 </a>
 
 <!-- 
