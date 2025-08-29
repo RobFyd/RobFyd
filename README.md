@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&pause=1000&color=f0f6fc&background=0d1117&size=45&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Robert+:);" />
 </h1>
 
-## <div align="justify">My name is Robert and I'm a passionate Frontend Developer with a deep fascination for coding and crafting engaging user experiences. Currently on a journey towards becoming a Full Stack Developer, I'm eager to explore and integrate both the front and back ends of web development. Let's connect and create something amazing together!</div>
+## <div align="justify">My name is Robert and I’m a passionate Frontend Developer with a strong focus on building intuitive, responsive, and visually appealing web applications. I love turning ideas into clean, functional interfaces and continuously challenge myself to improve both my technical skills and creativity.
+
+Currently, I’m on an exciting journey towards becoming a Full Stack Developer, expanding my knowledge into back-end technologies and exploring how to seamlessly connect front-end design with robust server-side solutions. My goal is to deliver end-to-end digital experiences that are not only functional but also meaningful for users.
+
+I’m always open to new challenges, collaborations, and opportunities to grow. Let’s connect, share ideas, and create something amazing together!</div>
 ## So let's check 🖱️ what we have here 🙂
 
 # 💻 Tech Stack:
