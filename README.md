@@ -42,6 +42,7 @@ Currently, I’m expanding my skills towards Full Stack Development, exploring h
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![json-server](https://img.shields.io/badge/json--server-grey?style=for-the-badge&logo=json&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
