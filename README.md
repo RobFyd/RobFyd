@@ -89,12 +89,14 @@ Currently, I’m expanding my skills towards Full Stack Development, exploring h
 
 # 📈 Stats
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=RobFyd&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage&rank_icon=github" />
-</a> -->
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
 </a>
+
+Stats temporarily unavailable (Vercel deployment paused).
 
 <!-- 
 <picture>
