@@ -96,8 +96,6 @@ Currently, I’m expanding my skills towards Full Stack Development, exploring h
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobFyd&layout=donut&exclude_repo=Fix-It-Fast,RobFyd.github.io&langs_count=10&theme=dracula" />
 </a>
 
-Stats temporarily unavailable (Vercel deployment paused).
-
 <!-- 
 <picture>
   <source
