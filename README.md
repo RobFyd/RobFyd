@@ -1,9 +1,5 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=RobFyd.RobFyd" />
 
-<p align="center">
-🎄✨🎁  Merry Christmas & Happy New Year!  🎁✨🎄</b>
-</p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&pause=1000&color=f0f6fc&background=0d1117&size=45&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Robert+:);" />
 </h1> 
