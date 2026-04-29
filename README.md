@@ -6,11 +6,15 @@
 
 <h3 align="justify">
     
-Hi, I’m Robert, a passionate Frontend Developer who loves coding and creating engaging, user-friendly experiences. I mainly code in React, and I’m currently exploring Next.js to take my projects to the next level. I enjoy working with modern web technologies and turning ideas into clean, functional interfaces.
-    
-With a background in Mechanical Engineering graduate and years of hands-on experience as a welder, fabricator, and engineer, I bring a practical and problem-solving mindset into the world of software development. Alongside coding, I’m also passionate about 3D design and printing, which lets me merge creativity with technology.
+Hi, I’m Robert – a Frontend Developer focused on building clean, user-friendly web applications with React. I’m currently expanding into Next.js and Full Stack development, connecting intuitive front-end interfaces with practical back-end solutions.
 
-Currently, I’m expanding my skills towards Full Stack Development, exploring how to connect front-end creativity with back-end logic. My goal is to build complete, well-structured applications that make a real impact.
+I work with modern tools like React, Vite, and REST APIs, and I deploy real projects using platforms like Netlify and Render. I enjoy turning ideas into fully functional applications – from concept to production.
+
+My background in Mechanical Engineering and years of hands-on experience as a certified (coded) TIG welder and fabricator give me a strong problem-solving mindset and attention to detail. I approach software development like engineering – practical, efficient, and results-driven.
+
+Beyond coding, I design and manufacture 3D printed products, combining digital design with physical production. This experience helps me think not only as a developer, but also as a creator and problem solver.
+
+Currently, I’m focused on building full-stack applications and growing as a developer who delivers complete, real-world solutions.
 
 🚀 Always learning, always building.
 
